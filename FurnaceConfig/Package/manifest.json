@@ -1,0 +1,10 @@
+﻿{
+  "name": "FurnaceConfig",
+  "description": "Simplest configurations for blast furnace.",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/FelixReuthlinger/FurnaceConfig",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.4.1",
+    "denikson-BepInExPack_Valheim-5.4.1601"
+  ]
+}
